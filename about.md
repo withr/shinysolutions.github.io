@@ -4,7 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is Smart Material theme.
+Huidong Tian
 
-Github repository: [https://github.com/ssokurenko/jekyll-smart-material](https://github.com/ssokurenko/jekyll-smart-material)
+Ecologist, data scientist & maker
+
+[Personal blog](http://withr.me)
+
+[Underwater ROV](http://ecorov.me)
 
