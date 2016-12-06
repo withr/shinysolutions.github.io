@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Smart Post"
+title:  "National test (5) map"
 date:   2015-10-23 17:40:06
 categories: jekyll update
 image: nation-test-5.png

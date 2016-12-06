@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Smart Post"
+title:  "Access mobile GPS"
 date:   2015-10-23 17:40:06
 categories: jekyll update
 image: access-gps-mobile.png

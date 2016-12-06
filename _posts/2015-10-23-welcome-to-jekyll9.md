@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Smart Post"
+title:  "Who visited my blog?"
 date:   2015-10-23 17:40:06
 categories: jekyll update
 image: who-visit-my-blog.png
