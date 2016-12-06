@@ -4,11 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Huidong Tian
+Name: **Huidong Tian**
 
-Ecologist, data scientist & maker
+Email: **tienhuitung@gmail.com**
 
-[Personal blog](http://withr.me)
+Title: **Ecologist**, **data scientist** & **maker**
 
-[Underwater ROV](http://ecorov.com)
+[**Personal blog**](http://withr.me)
+
+[**Underwater ROV**](http://ecorov.com)
 
