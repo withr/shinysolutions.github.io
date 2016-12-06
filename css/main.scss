@@ -3,6 +3,9 @@
 ---
 @charset "utf-8";
 
+.site-about { color: #000; text-decoration: none; transition: color .3s ease-out; width: 100%; text-align: right; margin-left: -24px; }
+.site-about:hover { color: #fff; }
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "variables",
