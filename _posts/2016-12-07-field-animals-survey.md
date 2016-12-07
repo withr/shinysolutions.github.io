@@ -6,3 +6,5 @@ categories: leaflet, shiny
 image: animal-survey.png
 
 ---
+
+<iframe src="http://51.175.77.204:3839/qinghai/q14" style="width:80vw; height:60vw;"></iframe><br>

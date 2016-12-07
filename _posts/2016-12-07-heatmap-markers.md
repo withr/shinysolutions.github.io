@@ -6,4 +6,8 @@ categories: jekyll update
 image: hospital-norway.png
 description: Hospitals and postcode district centers in Norway.
 ---
+
+<iframe src="http://51.175.77.204/sykehus" style="width:80vw; height:60vw;"></iframe><br>
+
+
 A map based shiny-app. Allow map-navigation, marker cluster and heatmap.  
