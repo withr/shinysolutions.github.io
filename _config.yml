@@ -17,3 +17,6 @@ material_theme: blue-deep_orange
 google-analytics-ua: UA-84475574-1
 
 permalink: /:title/
+
+# Your disqus shortname, entering this will enable commenting on posts
+disqus: tianhuidong
