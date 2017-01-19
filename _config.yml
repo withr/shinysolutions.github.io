@@ -10,7 +10,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 markdown: kramdown
 
 # Custom theme could be generated at: https://getmdl.io/customize/index.html
-material_theme: blue-deep_orange
+# material_theme: blue-deep_orange
 
 # Google Analytics account ID (UA-XXXXXXXX-X)
 
