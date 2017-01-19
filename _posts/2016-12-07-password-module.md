@@ -7,6 +7,6 @@ image: shiny-passwd.png
 description: Authenticated shiny-app
 ---
 
-<iframe src="http://51.175.77.204/passwdShinyApp" style="width:80vw; height:60vw;"></iframe><br>
+<iframe src="http://51.175.77.204/passwdShinyApp"></iframe><br>
 
 A simple method to authenticate your shiny-app. User name: Huidong Tian, password: shinyapps.me The password was encrypted using MD5 method.

@@ -7,6 +7,6 @@ image: random-colors.png
 description: Generating Visually Distinct Colors
 ---
 
-<iframe src="http://51.175.77.204/RColor/" style="width:80vw; height:60vw;"></iframe><br>
+<iframe src="http://51.175.77.204/RColor/"></iframe><br>
 
 A native shiny-app for randomly generate visually distict colors. The idea is randomly generate a number of points in the color’s space. Pick up the 

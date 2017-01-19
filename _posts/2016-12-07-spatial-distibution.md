@@ -8,7 +8,7 @@ description: Who visited my Shiny-app?
 ---
 
 
-<iframe src="http://51.175.77.204:3837/M500_pt" style="width:80vw; height:60vw;"></iframe><br>
+<iframe src="http://51.175.77.204:3837/M500_pt"></iframe><br>
 
 
 This app used to monitor users who visited your shiny-app. By recording users’ IP information, we can show them on map.

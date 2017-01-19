@@ -7,6 +7,6 @@ image: access-gps-mobile.png
 description: This is the first Demo post. Click to see full content.
 ---
 
-<iframe src="http://51.175.77.204/geoLocation/" style="width:80vw; height:60vw;"></iframe><br>
+<iframe src="http://51.175.77.204/geoLocation/"></iframe><br>
 
 A simple shiny-app run on mobile phone, which can get access to the GPS data using web browser’s HTML5 Geolocation API.
