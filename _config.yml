@@ -1,9 +1,9 @@
 # Site settings
-title: Shiny apps by Huidong Tian
+title: Shiny apps by Huidong
 # email: your-email@domain.com
 # description: Slick Material Design theme for Jekyll powered by Material Design Lite.
 baseurl: "" # the subpath of your site, e.g. /blog/
-# url: "http://shinyapps.me" # the base hostname & protocol for your site
+# url: "http://shinyapps.me/" 
 # copyright: '&copy; 2015-2016 Smart Material Theme'
 
 # Build settings
@@ -14,9 +14,9 @@ markdown: kramdown
 
 # Google Analytics account ID (UA-XXXXXXXX-X)
 
-google-analytics-ua: UA-84475574-1
+# google-analytics-ua: UA-84475574-1
 
 permalink: /:title/
 
 # Your disqus shortname, entering this will enable commenting on posts
-disqus: tianhuidong
+# disqus: tianhuidong

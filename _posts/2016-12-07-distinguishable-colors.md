@@ -7,6 +7,10 @@ image: random-colors.png
 description: Generating Visually Distinct Colors
 ---
 
-<iframe src="http://51.175.77.204/RColor/"></iframe><br>
 
-A native shiny-app for randomly generate visually distict colors. The idea is randomly generate a number of points in the color’s space. Pick up the 
+
+A native shiny-app for randomly generate visually distict colors. The idea is randomly generate a number of points in the color’s space. Pick up one of the closest pair points, and put it to somewhere the distance to all points is largest. 
+
+[Source code](https://github.com/shinysolutions/RColor)
+
+<iframe src="http://51.175.77.204/RColor/"></iframe><br>
