@@ -8,12 +8,7 @@ image: donuts-matrix.png
 ---
 
 
-Donuts matrix using Highcharts. There are two parts of **highcharts.js** need to be modified:
 
-- line 224: change function "C" to "parseFloat". This will allow accurate position for *center* option of highcharts. 
-
-- line 207: insert "this.userOptions.w||" before "this.containerWidth", and "this.userOptions.h" before "p(a,this.containerHeight>19". This will make sure the size of output figure changes as row/column number changed.
- 
 
 [Source code](https://github.com/shinysolutions/donuts)
 
