@@ -1,16 +1,19 @@
-<!DOCTYPE html>
-<html>
-  {% include head.html %}
-  <body>
-    {% include header.html %}
-    <video autoplay="" loop="" id="bgvid">
-        <source src="http://51.175.77.204/UnderwaterbyecoROV.mp4" type="video/mp4">
-    </video>
+---
+layout: default
+---
 
-    <p class="announce">An economic ROV designed for marine ecological exploration!</p>
-    
-    <footer>
-        <p>Copyright &copy; {{ site.author }} {{ site.time | date: "%Y" }}</p>
-    </footer>
-  </body>
-</html>
+<div class="mdl-grid">
+  {% for post in site.posts %}
+    <div class="mdl-cell mdl-cell--4-col mdl-cell--4-col-tablet mdl-cell--12-col-phone post-block">
+      <a href="{{ post.url | prepend: site.baseurl }}">
+        <div class="post-card mdl-shadow--2dp">
+          <img src="./assets/images/{{ post.image }}"/>
+          <div class="mdl-card__title">
+            <p class="mdl-card__title-text">{{ post.title }}</p><br><br>
+          </div>
+          <div class="post-card__fade"></div>
+        </div>
+      </a>
+  </div>
+  {% endfor %}
+</div>
