@@ -13,4 +13,4 @@ A native shiny-app for randomly generate visually distict colors. The idea is ra
 
 [Source code](https://github.com/shinysolutions/RColor)
 
-<iframe src="http://51.175.77.204/RColor/"></iframe><br>
+<iframe src="http://51.175.77.204:3838/RColor/"></iframe><br>

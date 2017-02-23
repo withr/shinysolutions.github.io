@@ -10,4 +10,4 @@ A simple shiny-app for image recognition using API of TensorFlow.
 
 [Source code](https://github.com/shinysolutions/tf_ImageClassify)
 
-<iframe src="http://51.175.77.204/tf_ImageClassify"></iframe><br>
+<iframe src="http://51.175.77.204:3838/tf_ImageClassify"></iframe><br>
